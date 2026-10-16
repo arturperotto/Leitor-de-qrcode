@@ -1,0 +1,13 @@
+Exams project
+
+What i'll do:
+
+* Some exams with ready questions
+* A correction for the exams 
+* And the grade
+
+What i'll use:
+* Some librarys of python(like some rich fo r color and anothers)
+* And the database will be with txt files
+
+OBS: this only work with objective questions
